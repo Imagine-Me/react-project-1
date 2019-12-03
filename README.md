@@ -2,7 +2,7 @@
 
 <code>
 
-git clone https://github.com/Imagine-Me/react-calculator.git
+git clone https://github.com/Imagine-Me/react-project-1.git
 
 cd react-calculator
 
