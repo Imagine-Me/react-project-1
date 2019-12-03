@@ -4,7 +4,7 @@
 
 git clone https://github.com/Imagine-Me/react-project-1.git
 
-cd react-calculator
+cd react-project-1
 
 npm install 
 
