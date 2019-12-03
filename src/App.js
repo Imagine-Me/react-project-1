@@ -8,8 +8,8 @@ import List from './Components/List/List'
 const App = () => {
   return (
     <div class="MainBody">
-      <Input />
-      <Button/>
+      <Input type="text" placeHolder="Enter some text" />
+      <Button>Add</Button>
       <ul>
           <List/>
           <List/>
